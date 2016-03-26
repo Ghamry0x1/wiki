@@ -5,4 +5,4 @@ Table of Contents
 * [general](generals/README.md): General topics, like algorithms
 * [misc](misc/README.md): Miscellaneous stuff, not categorized yet
 * [learngraphics](learngraphics/README.md): An incomplete tutorial I wrote...
-
+* [purescript source reading notes](purescript/README.md): Some notes about PureScript compiler's source code
