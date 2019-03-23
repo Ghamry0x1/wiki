@@ -1,0 +1,3 @@
+[submodule "eng-handbook"]
+	path = eng-handbook
+	url = https://github.com/raylene/eng-handbook
